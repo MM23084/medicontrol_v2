@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">medicontrol</string>
+
+    <style name="CustomIndicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">#26005691</item>
+    </style>
+
+    <style name="MedicalInputStyle"
+        parent="Widget.Material3.TextInputLayout.OutlinedBox.ExposedDropdownMenu">
+        <item name="boxStrokeColor">@color/medicalBlue</item>
+        <item name="hintTextColor">@color/medicalBlueDark</item>
+        <item name="startIconTint">@color/medicalBlue</item>
+    </style>
+
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="medicalBlue">#4D91A8</color>
+    <color name="medicalBlueDark">#2E6175</color>
+    <color name="medicalBackground">#F4F7FA</color>
+    <color name="medicalWhite">#FFFFFF</color>
+    <color name="medicalGray">#E8EEF2</color>
+
+</resources>
+

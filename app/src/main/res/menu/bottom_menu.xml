@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_inicio"
+        android:title="Inicio"
+        android:icon="@drawable/ic_home"/>
+
+    <item
+        android:id="@+id/bottom_pacientes"
+        android:title="Pacientes"
+        android:icon="@drawable/ic_patient"/>
+
+    <item
+        android:id="@+id/bottom_citas"
+        android:title="Citas"
+        android:icon="@drawable/ic_calendar"/>
+
+    <item
+        android:id="@+id/bottom_expedientes"
+        android:title="Expedientes"
+        android:icon="@drawable/ic_folder"/>
+
+    <item
+        android:id="@+id/bottom_configuracion"
+        android:title="Configuración"
+        android:icon="@drawable/ic_menu_manage"/>
+
+</menu>
